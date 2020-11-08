@@ -3,6 +3,12 @@
   margin: 0 auto;
 }
 
+@media (max-width: 1024px) {
+  .intro {
+    width: 90.625%;
+  }
+}
+
 @media (max-width: 768px) {
   .intro {
     width: 93.75%;

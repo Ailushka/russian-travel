@@ -1,9 +1,9 @@
-.header_lang_ru {
+.header__link {
   color: white;
-  margin-right: 1.125rem;
   transition: opacity .5s linear;
+  text-decoration: none;
 }
 
-.header_lang_ru:hover {
+.header__link:hover {
   opacity: .8;
 }

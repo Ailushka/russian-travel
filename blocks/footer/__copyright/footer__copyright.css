@@ -6,7 +6,7 @@
   margin: 0;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 686px) {
 .footer__copyright {
     line-height: calc(14 / 14);
   }
