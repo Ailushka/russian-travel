@@ -1,0 +1,25 @@
+.places__list {
+  width: 76.875%;
+  padding: 0 0 .75rem;
+  margin: 0 auto;
+  list-style-type: none;
+}
+
+@media (max-width: 1024px) {
+  .places__list {
+    width: 90.625%;
+  }
+}
+
+@media (max-width: 920px) {
+  .places__list {
+    width: 93.75%;
+    padding-bottom: 1rem;
+  }
+}
+
+@media (max-width: 680px) {
+  .places__list {
+    width: 100%;
+  }
+}
