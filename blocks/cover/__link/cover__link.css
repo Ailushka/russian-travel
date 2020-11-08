@@ -1,6 +1,6 @@
 .cover__link {
   width: 92.5%;
-  min-height: calc(100vw * 0.625);
+  min-height: 740px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -34,5 +34,6 @@
 @media (max-width: 1024px) {
 .cover__link {
     width: 100%;
+    min-height: calc(100vw * 0.625);
   }
 }
